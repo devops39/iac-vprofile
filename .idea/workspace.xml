@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72c1782f-ee56-437e-b8ac-fe9f3785ba8a" name="Changes" comment="bucket name updated" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="stage" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;devops39&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/devops39/iac-vprofile.git&quot;,
+    &quot;accountId&quot;: &quot;11a097b9-8be2-4aea-81ab-2fdbba4a92e2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2leFacCwDYG826DZitVwgPaCxEt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/voulv/Downloads/devops4sure/iac-vprofile"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c1782f-ee56-437e-b8ac-fe9f3785ba8a" name="Changes" comment="" />
+      <created>1725532699416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725532699416</updated>
+    </task>
+    <task id="LOCAL-00001" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725533437788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725533437788</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725535878640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725535878640</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725535929679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725535929679</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725536001481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536001481</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725536143269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536143269</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725536257094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536257094</updated>
+    </task>
+    <task id="LOCAL-00007" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725536649112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536649112</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725536736682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536736682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725536885527</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725536885527</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bucket name updated">
+      <option name="closed" value="true" />
+      <created>1725537179886</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725537179886</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bucket name updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="bucket name updated" />
+  </component>
+</project>
